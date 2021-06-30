@@ -16,3 +16,11 @@
 .title-group i {
     padding-right: 5px;
 }
+
+.logo {
+    text-decoration: none;
+    color: #3f51b5;
+}
+.logo:hover {
+    color: #303d88;
+}
