@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Xiaomi Redmi 5",
       "price": 1100
+    },
+    {
+      "name": "Guitarra",
+      "price": "799,99",
+      "id": 4
     }
   ]
 }
