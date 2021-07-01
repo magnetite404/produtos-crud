@@ -1,19 +1,19 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta BIC",
-            "price": 3.50
-        },
-        {
-            "id": 2,
-            "name": "iPhone 4s",
-            "price": 1000
-        },
-        {
-            "id": 3,
-            "name": "Xiaomi Redmi 5",
-            "price": 1100
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 3.5
+    },
+    {
+      "id": 2,
+      "name": "iPhone 4s",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Redmi 5",
+      "price": 1100
+    }
+  ]
 }
