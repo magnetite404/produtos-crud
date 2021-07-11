@@ -17,8 +17,8 @@ export class ProductService {
               private http: HttpClient) { }
 
   showMessage(msg: string, isError: boolean = false): void {
-    this.snackBar.open(msg, 'X', {
-      duration: 3000,
+    this.snackBar.open(msg, '', {
+      duration: 2500,
       horizontalPosition: "right",
       verticalPosition: "top",
       panelClass: isError ? ['msg-error'] : ['msg-success']

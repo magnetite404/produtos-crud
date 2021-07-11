@@ -10,7 +10,7 @@
 }
 
 .header .title-group{
-    padding-left: 25px;
+    margin-left: 100px;
 }
 
 .title-group i {
@@ -19,8 +19,8 @@
 
 .logo {
     text-decoration: none;
-    color: #3f51b5;
+    color: #202333;
 }
 .logo:hover {
-    color: #303d88;
+    color: #3F51B5;
 }

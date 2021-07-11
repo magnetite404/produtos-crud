@@ -19,6 +19,21 @@
       "name": "Guitarra",
       "price": 799.99,
       "id": 4
+    },
+    {
+      "name": "CD Rubber Soul",
+      "price": 34,
+      "id": 5
+    },
+    {
+      "name": "CD Sgt. Peppers",
+      "price": 21,
+      "id": 6
+    },
+    {
+      "name": "CD Banda do Mar",
+      "price": 14,
+      "id": 7
     }
   ]
 }
