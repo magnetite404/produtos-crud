@@ -1,5 +1,5 @@
 # Cadastro de Produtos
-Aplicação Angular que realiza o cadastro de produtos.
+Aplicação Angular que realiza o cadastramento de produtos.
 
 Desenvolvido com as tecnologias: Angular 12, HTML5, CSS3, TypeScript e Angular Material.
 
