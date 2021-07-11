@@ -1,39 +1,29 @@
 {
   "products": [
     {
-      "id": 1,
       "name": "Caneta BIC",
-      "price": 3.5
+      "price": 1.5,
+      "id": 1
     },
     {
-      "id": 2,
       "name": "iPhone 4s",
-      "price": 900
+      "price": 900,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Xiaomi Redmi Note 5",
-      "price": 1100
+      "name": "Caixa de Som Edifier",
+      "price": 750,
+      "id": 3
     },
     {
-      "name": "Guitarra",
-      "price": 799.99,
+      "name": "Xiaomi Redmi 5",
+      "price": 1300,
       "id": 4
     },
     {
-      "name": "CD Rubber Soul",
-      "price": 34,
+      "name": "Notebook ASUS",
+      "price": 4000,
       "id": 5
-    },
-    {
-      "name": "CD Sgt. Peppers",
-      "price": 21,
-      "id": 6
-    },
-    {
-      "name": "CD Banda do Mar",
-      "price": 14,
-      "id": 7
     }
   ]
 }
